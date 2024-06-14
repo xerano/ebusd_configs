@@ -1,0 +1,4 @@
+#type,circuit,name,comment,QQ,ZZ,PBSB,ID,field1,part,type/templates,divider/values,unit,comment,field2,part,type/templates,divider/values,unit,comment,field3,part,type/templates,divider/values,unit,comment,field4,part,type/templates,divider/values,unit,comment,field5,part,type/templates,divider/values,unit,comment,field6,part,type/templates,divider/values,unit,comment
+r*,solar,,,,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+r2,solar,Prozesswerte 1,,,,1001,,TK1,,UIN,10,°C,Temperaturfühler Kollektor1,TWT,,UIN,10,°C,Temperaturfühler Plattenwärmetauscher,TU1,,UIN,10,°C,Temperaturfühler Speicher 1 unten,TO1,,UIN,10,°C,Temperaturfühler Speicher 1 oben,TU2,,UIN,10,°C,Temperaturfühler Speicher 2 unten,TO2,,UIN,10,°C,Temperaturfühler Speicher 2 oben
+r2,solar,Prozesswerte 2,,,,1002,,TKR1,,UIN,10,°C,Solarkollektor Rücklauftemperatur,TKV1,,UIN,10,°C,Solarkollektor Vorlauftemperatur,V1,,UIN,1,l/h,Durchfluss 1,PSOL,,UIN,10,kW,Solare Leistung,,,,,,,,,,,,
